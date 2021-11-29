@@ -19,3 +19,25 @@
   * Oranges
   * Apples
   * Bananas
+1. Vegetables
+   1.  Tomatoes
+   2.  Onions
+   3.  Carrots
+
+SNo|Name
+----|----
+1|Jaso
+2|ChnK
+3|Chns
+4|Shardul Thakur
+
+Using Emogis
+
+🐒
+
+😿
+
+💏
+
+📸
+
